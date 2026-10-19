@@ -1,0 +1,4 @@
+univercity.db
+__pycache__/
+*.pyc
+.idea/
